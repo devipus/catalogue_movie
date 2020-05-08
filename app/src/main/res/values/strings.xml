@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vi Catalogue Movie</string>
+    <string name="nama_movie">marvel</string>
+    <string name="masukkan_nama_movie">Masukkan nama movie</string>
+    <string name="cari">Cari</string>
+    <string name="judul_movie">Judul Movie</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tanggal">Tanggal</string>
+</resources>
